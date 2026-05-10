@@ -1,0 +1,7 @@
+
+path: /content/drive/MyDrive/final_dataset
+train: train/images
+val: val/images
+
+nc: 1
+names: ['number_plate']

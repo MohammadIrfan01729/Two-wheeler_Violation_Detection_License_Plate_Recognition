@@ -1,0 +1,8 @@
+
+path: /content/drive/MyDrive/MP/final_dataset/helmet_no_helmet_train_val
+
+train: train/images
+val: val/images
+
+nc: 2
+names: ['helmet', 'no_helmet']

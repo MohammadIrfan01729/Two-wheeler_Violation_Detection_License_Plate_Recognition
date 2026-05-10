@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="iNmzMv2t4MZJWT90z5Mb">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zxDir5utTjyuNJUBbfEb-1" edge="1" parent="1" source="mu0Uw3yVZLFdFB23vu6c-8" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="400" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxDir5utTjyuNJUBbfEb-3" parent="1" style="shape=delay;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=light-dark(#FFFFFF,#9AC7BF);strokeColor=light-dark(#000000,#000000);fontSize=17;fontColor=light-dark(#000000,#000000);" value="Input Image&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="170" x="400" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxDir5utTjyuNJUBbfEb-4" parent="1" style="shape=delay;whiteSpace=wrap;html=1;rotation=-180;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#CCFF99);gradientColor=none;strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="70" width="170" x="230" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zxDir5utTjyuNJUBbfEb-5" parent="1" style="shape=delay;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#9AC7BF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="70" width="170" x="400" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mu0Uw3yVZLFdFB23vu6c-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Stage 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="285" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mu0Uw3yVZLFdFB23vu6c-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Stage 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="mu0Uw3yVZLFdFB23vu6c-8" parent="1" style="shape=delay;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCFF99);flipV=1;legacyAnchorPoints=0;flipH=1;strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="70" width="170" x="230" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mu0Uw3yVZLFdFB23vu6c-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Stage 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="285" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="mu0Uw3yVZLFdFB23vu6c-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);spacingTop=0;fontFamily=Times New Roman;spacing=0;" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;font&gt;Detection Stage:&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;font&gt;Two Wheeler and Rider are Detected Using YOLOv11&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="400" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mu0Uw3yVZLFdFB23vu6c-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Violation Detection Stage:&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;No Helmet&amp;nbsp; and Triple Riding Violation Detection Using YOLOv11 and Violation Logic&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="235" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="mu0Uw3yVZLFdFB23vu6c-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;font face=&quot;Times New Roman&quot;&gt;OCR Stage:&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;License Plate is Detected Using YOLOv11 and OCR Pipeline is Executed&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="400" y="355" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

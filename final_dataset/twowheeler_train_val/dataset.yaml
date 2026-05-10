@@ -1,0 +1,8 @@
+
+path: /content/drive/MyDrive/MP/final_dataset/twowheeler_train_val
+
+train: train/images
+val: val/images
+
+nc: 1
+names: ['two_wheeler']

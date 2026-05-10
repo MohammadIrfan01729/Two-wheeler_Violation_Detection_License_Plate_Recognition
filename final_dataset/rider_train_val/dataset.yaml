@@ -1,0 +1,8 @@
+
+path: /content/drive/MyDrive/MP/final_dataset/rider_train_val
+
+train: train/images
+val: val/images
+
+nc: 1
+names: ['rider']
